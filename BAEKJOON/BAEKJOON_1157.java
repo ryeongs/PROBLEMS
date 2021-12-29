@@ -20,7 +20,7 @@ public class Main {
             } else if(max == arr[str.charAt(i)-65]) {
                 result = '?';
             }
-        }
+        } 
         System.out.println(result);
     }
 }
